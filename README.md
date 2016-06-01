@@ -16,11 +16,13 @@ This is my ~/.vim dir and _this_, dear reader, is a horse:
          }}}`                            \                  HIM-HIM-HIM!!!  /
                                           '--------------------------------'
 
+Forked from https://github.com/scrooloose/vimfiles (thanks for this!) and adapted for my personal use.
+
 Installation
 ============
 
 Clone the repo:
-`git clone https://github.com/scrooloose/vimfiles.git ~/.vim`
+`git clone https://github.com/arnaudbos/vimfiles.git ~/.vim`
 
 Grab Vundles:
 `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
