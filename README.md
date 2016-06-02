@@ -27,8 +27,7 @@ Clone the repo:
 Grab Vundles:
 `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
-Install Plugins
-`vim +PluginInstall +qall`
+Install Plugins `vim +PluginInstall +qall` (will yell about gruvbox, just ignore)
 
 Make sure vim finds the vimrc file by either symlinking it:
 `ln -s ~/.vim/vimrc ~/.vimrc`
